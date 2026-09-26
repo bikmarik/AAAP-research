@@ -219,3 +219,6 @@ artifacts/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Локальные данные панели (2.4 ГБ вместе с кэшем)
+data/
